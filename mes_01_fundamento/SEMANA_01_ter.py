@@ -44,7 +44,7 @@
 
 # Idade cadastrada: X anos
 
-# #while True:#
+# while True:
 #     try:
 #         idade = int(input('Digite sua idade: '))
 #         if idade > 0:
@@ -106,21 +106,3 @@
 # print(f'Nota registrada: {nota}')
 
 #-----------------------------------------------
-
-# Exercício 3 — Entrada mista
-
-# Peça ao usuário:
-
-# nome (texto)
-
-# ano de nascimento (texto)
-
-# Converta:
-
-# o ano para inteiro
-
-# calcule a idade aproximada
-
-# imprima uma frase formatada:
-
-# NOME tem aproximadamente IDADE anos.
